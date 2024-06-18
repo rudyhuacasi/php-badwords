@@ -1,0 +1,15 @@
+{
+  "name": "php-badwords",
+  "version": "1.0.0",
+  "description": "Descrizione:\r Creare un form PHP che permetta di inviare due campi: un paragrafo ed una parola da censurare.\r Gestire il tutto con due file diversi.\r Il primo file dovrà permettere all’utente di inserire i dati e inviare la richiesta al server.\r Il secondo file riceverà la richiesta ed eseguirà queste operazioni:\r - stampare a schermo il paragrafo e la sua lunghezza\r - stampare di nuovo il paragrafo e la sua lunghezza, dopo aver sostituito con tre asterischi (***) tutte le occorrenze della parola da censurare.\r Bonus:\r Aggiungete bootstrap alla pagina per dare un po' di stile al risultato.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
