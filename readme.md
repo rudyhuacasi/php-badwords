@@ -11,6 +11,16 @@ Il secondo file riceverà la richiesta ed eseguirà queste operazioni:
 
 Aggiungete bootstrap alla pagina per dare un po' di stile al risultato.
 
+## PHP
+
+- variabile per il paragrafo
+- variabile per la parola di censura
+- variabile cancellare gli spazi del paragrafo
+- variabile per la lunghezza del paragrafo
+- variabile per sostituire la parola $censura
+
+
+
 ## Installation
 
 ```bash
